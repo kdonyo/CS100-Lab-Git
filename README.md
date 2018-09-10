@@ -1,1 +1,2 @@
-# CS100-Lab-Git
+# CS100-Lab-Git 
+#### Kelsang Donyo
